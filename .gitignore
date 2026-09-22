@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*secret*
+*token*
+state.db
+*.db
+sessions/
+session/
+memories/private/
+.DS_Store
+__pycache__/
+*.log
